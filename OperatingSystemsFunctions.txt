@@ -1,2 +1,3 @@
 An operating system has three main functions: (1) manage the computer's resources, such as the central processing unit, memory, disk drives, and printers, (2) establish a user interface, and (3) execute and provide services for applications software.
 Booting: Booting is a process of starting the computer operating system starts the computer to work. It checks the computer and makes it ready to work.
+Memory Management:It is also an important function of operating system. The memory cannot be managed without operating system. Different programs and data execute in memory at one time. if there is no operating system, the programs may mix with each other. The system will not work properly.
